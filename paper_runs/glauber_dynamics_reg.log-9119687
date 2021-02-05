@@ -1,0 +1,2934 @@
+beta=0.400000 
+M_guess=1000 
+
+******************************************************************************
+This program contains Ipopt, a library for large-scale nonlinear optimization.
+ Ipopt is released as open source code under the Eclipse Public License (EPL).
+         For more information visit http://projects.coin-or.org/Ipopt
+******************************************************************************
+
+FLAG=0, M=1050, n_trials=0, P=0/45
+FLAG=0, M=1100, n_trials=0, P=0/45
+FLAG=0, M=1150, n_trials=0, P=0/45
+FLAG=0, M=1200, n_trials=0, P=0/45
+FLAG=0, M=1250, n_trials=0, P=0/45
+FLAG=0, M=1300, n_trials=0, P=0/45
+FLAG=0, M=1350, n_trials=0, P=0/45
+FLAG=0, M=1400, n_trials=0, P=0/45
+FLAG=0, M=1450, n_trials=0, P=0/45
+FLAG=0, M=1500, n_trials=0, P=0/45
+FLAG=0, M=1550, n_trials=0, P=0/45
+FLAG=0, M=1600, n_trials=0, P=0/45
+FLAG=0, M=1650, n_trials=0, P=0/45
+FLAG=0, M=1700, n_trials=0, P=0/45
+FLAG=0, M=1750, n_trials=0, P=0/45
+FLAG=0, M=1800, n_trials=0, P=0/45
+FLAG=0, M=1850, n_trials=0, P=0/45
+FLAG=0, M=1900, n_trials=0, P=0/45
+FLAG=0, M=1950, n_trials=0, P=0/45
+FLAG=0, M=2000, n_trials=0, P=0/45
+FLAG=0, M=2100, n_trials=0, P=0/45
+FLAG=0, M=2200, n_trials=0, P=0/45
+FLAG=0, M=2300, n_trials=0, P=0/45
+FLAG=0, M=2400, n_trials=0, P=0/45
+FLAG=0, M=2500, n_trials=0, P=0/45
+FLAG=0, M=2600, n_trials=0, P=0/45
+FLAG=0, M=2700, n_trials=0, P=0/45
+FLAG=0, M=2800, n_trials=0, P=0/45
+FLAG=0, M=2900, n_trials=0, P=0/45
+FLAG=0, M=3000, n_trials=0, P=0/45
+FLAG=0, M=3150, n_trials=0, P=0/45
+FLAG=1, M=3150, n_trials=1, P=1/45
+FLAG=0, M=3300, n_trials=0, P=0/45
+FLAG=0, M=3450, n_trials=0, P=0/45
+FLAG=1, M=3450, n_trials=1, P=1/45
+FLAG=1, M=3450, n_trials=2, P=2/45
+FLAG=1, M=3450, n_trials=3, P=3/45
+FLAG=1, M=3450, n_trials=4, P=4/45
+FLAG=0, M=3600, n_trials=0, P=0/45
+FLAG=1, M=3600, n_trials=1, P=1/45
+FLAG=0, M=3750, n_trials=0, P=0/45
+FLAG=0, M=3900, n_trials=0, P=0/45
+FLAG=1, M=3900, n_trials=1, P=1/45
+FLAG=0, M=4050, n_trials=0, P=0/45
+FLAG=0, M=4250, n_trials=0, P=0/45
+FLAG=0, M=4450, n_trials=0, P=0/45
+FLAG=1, M=4450, n_trials=1, P=1/45
+FLAG=1, M=4450, n_trials=2, P=2/45
+FLAG=1, M=4450, n_trials=3, P=3/45
+FLAG=1, M=4450, n_trials=4, P=4/45
+FLAG=1, M=4450, n_trials=5, P=5/45
+FLAG=1, M=4450, n_trials=6, P=6/45
+FLAG=1, M=4450, n_trials=7, P=7/45
+FLAG=1, M=4450, n_trials=8, P=8/45
+FLAG=1, M=4450, n_trials=9, P=9/45
+FLAG=1, M=4450, n_trials=10, P=10/45
+FLAG=1, M=4450, n_trials=11, P=11/45
+FLAG=0, M=4650, n_trials=0, P=0/45
+FLAG=1, M=4650, n_trials=1, P=1/45
+FLAG=1, M=4650, n_trials=2, P=2/45
+FLAG=0, M=4850, n_trials=0, P=0/45
+FLAG=1, M=4850, n_trials=1, P=1/45
+FLAG=1, M=4850, n_trials=2, P=2/45
+FLAG=1, M=4850, n_trials=3, P=3/45
+FLAG=0, M=5050, n_trials=0, P=0/45
+FLAG=0, M=5300, n_trials=0, P=0/45
+FLAG=1, M=5300, n_trials=1, P=1/45
+FLAG=1, M=5300, n_trials=2, P=2/45
+FLAG=1, M=5300, n_trials=3, P=3/45
+FLAG=1, M=5300, n_trials=4, P=4/45
+FLAG=1, M=5300, n_trials=5, P=5/45
+FLAG=1, M=5300, n_trials=6, P=6/45
+FLAG=0, M=5550, n_trials=0, P=0/45
+FLAG=1, M=5550, n_trials=1, P=1/45
+FLAG=1, M=5550, n_trials=2, P=2/45
+FLAG=1, M=5550, n_trials=3, P=3/45
+FLAG=1, M=5550, n_trials=4, P=4/45
+FLAG=1, M=5550, n_trials=5, P=5/45
+FLAG=1, M=5550, n_trials=6, P=6/45
+FLAG=1, M=5550, n_trials=7, P=7/45
+FLAG=1, M=5550, n_trials=8, P=8/45
+FLAG=1, M=5550, n_trials=9, P=9/45
+FLAG=1, M=5550, n_trials=10, P=10/45
+FLAG=1, M=5550, n_trials=11, P=11/45
+FLAG=1, M=5550, n_trials=12, P=12/45
+FLAG=1, M=5550, n_trials=13, P=13/45
+FLAG=1, M=5550, n_trials=14, P=14/45
+FLAG=1, M=5550, n_trials=15, P=15/45
+FLAG=0, M=5800, n_trials=0, P=0/45
+FLAG=1, M=5800, n_trials=1, P=1/45
+FLAG=1, M=5800, n_trials=2, P=2/45
+FLAG=0, M=6050, n_trials=0, P=0/45
+FLAG=0, M=6350, n_trials=0, P=0/45
+FLAG=1, M=6350, n_trials=1, P=1/45
+FLAG=1, M=6350, n_trials=2, P=2/45
+FLAG=1, M=6350, n_trials=3, P=3/45
+FLAG=1, M=6350, n_trials=4, P=4/45
+FLAG=1, M=6350, n_trials=5, P=5/45
+FLAG=1, M=6350, n_trials=6, P=6/45
+FLAG=1, M=6350, n_trials=7, P=7/45
+FLAG=1, M=6350, n_trials=8, P=8/45
+FLAG=1, M=6350, n_trials=9, P=9/45
+FLAG=1, M=6350, n_trials=10, P=10/45
+FLAG=1, M=6350, n_trials=11, P=11/45
+FLAG=1, M=6350, n_trials=12, P=12/45
+FLAG=1, M=6350, n_trials=13, P=13/45
+FLAG=1, M=6350, n_trials=14, P=14/45
+FLAG=1, M=6350, n_trials=15, P=15/45
+FLAG=1, M=6350, n_trials=16, P=16/45
+FLAG=1, M=6350, n_trials=17, P=17/45
+FLAG=1, M=6350, n_trials=18, P=18/45
+FLAG=1, M=6350, n_trials=19, P=19/45
+FLAG=1, M=6350, n_trials=20, P=20/45
+FLAG=1, M=6350, n_trials=21, P=21/45
+FLAG=1, M=6350, n_trials=22, P=22/45
+FLAG=1, M=6350, n_trials=23, P=23/45
+FLAG=1, M=6350, n_trials=24, P=24/45
+FLAG=1, M=6350, n_trials=25, P=25/45
+FLAG=1, M=6350, n_trials=26, P=26/45
+FLAG=1, M=6350, n_trials=27, P=27/45
+FLAG=1, M=6350, n_trials=28, P=28/45
+FLAG=1, M=6350, n_trials=29, P=29/45
+FLAG=1, M=6350, n_trials=30, P=30/45
+FLAG=1, M=6350, n_trials=31, P=31/45
+FLAG=1, M=6350, n_trials=32, P=32/45
+FLAG=1, M=6350, n_trials=33, P=33/45
+FLAG=1, M=6350, n_trials=34, P=34/45
+FLAG=1, M=6350, n_trials=35, P=35/45
+FLAG=1, M=6350, n_trials=36, P=36/45
+FLAG=1, M=6350, n_trials=37, P=37/45
+FLAG=1, M=6350, n_trials=38, P=38/45
+FLAG=1, M=6350, n_trials=39, P=39/45
+FLAG=1, M=6350, n_trials=40, P=40/45
+FLAG=1, M=6350, n_trials=41, P=41/45
+FLAG=1, M=6350, n_trials=42, P=42/45
+FLAG=1, M=6350, n_trials=43, P=43/45
+FLAG=0, M=6650, n_trials=0, P=0/45
+FLAG=1, M=6650, n_trials=1, P=1/45
+FLAG=1, M=6650, n_trials=2, P=2/45
+FLAG=1, M=6650, n_trials=3, P=3/45
+FLAG=1, M=6650, n_trials=4, P=4/45
+FLAG=1, M=6650, n_trials=5, P=5/45
+FLAG=1, M=6650, n_trials=6, P=6/45
+FLAG=1, M=6650, n_trials=7, P=7/45
+FLAG=1, M=6650, n_trials=8, P=8/45
+FLAG=1, M=6650, n_trials=9, P=9/45
+FLAG=1, M=6650, n_trials=10, P=10/45
+FLAG=1, M=6650, n_trials=11, P=11/45
+FLAG=1, M=6650, n_trials=12, P=12/45
+FLAG=1, M=6650, n_trials=13, P=13/45
+FLAG=1, M=6650, n_trials=14, P=14/45
+FLAG=1, M=6650, n_trials=15, P=15/45
+FLAG=1, M=6650, n_trials=16, P=16/45
+FLAG=1, M=6650, n_trials=17, P=17/45
+FLAG=1, M=6650, n_trials=18, P=18/45
+FLAG=1, M=6650, n_trials=19, P=19/45
+FLAG=1, M=6650, n_trials=20, P=20/45
+FLAG=1, M=6650, n_trials=21, P=21/45
+FLAG=1, M=6650, n_trials=22, P=22/45
+FLAG=1, M=6650, n_trials=23, P=23/45
+FLAG=1, M=6650, n_trials=24, P=24/45
+FLAG=1, M=6650, n_trials=25, P=25/45
+FLAG=1, M=6650, n_trials=26, P=26/45
+FLAG=1, M=6650, n_trials=27, P=27/45
+FLAG=1, M=6650, n_trials=28, P=28/45
+FLAG=1, M=6650, n_trials=29, P=29/45
+FLAG=1, M=6650, n_trials=30, P=30/45
+FLAG=1, M=6650, n_trials=31, P=31/45
+FLAG=1, M=6650, n_trials=32, P=32/45
+FLAG=1, M=6650, n_trials=33, P=33/45
+FLAG=1, M=6650, n_trials=34, P=34/45
+FLAG=1, M=6650, n_trials=35, P=35/45
+FLAG=1, M=6650, n_trials=36, P=36/45
+FLAG=1, M=6650, n_trials=37, P=37/45
+FLAG=1, M=6650, n_trials=38, P=38/45
+FLAG=1, M=6650, n_trials=39, P=39/45
+FLAG=1, M=6650, n_trials=40, P=40/45
+FLAG=1, M=6650, n_trials=41, P=41/45
+FLAG=1, M=6650, n_trials=42, P=42/45
+FLAG=1, M=6650, n_trials=43, P=43/45
+FLAG=1, M=6650, n_trials=44, P=44/45
+FLAG=1, M=6650, n_trials=45, P=45/45
+beta=0.400000, M_opt=6650 
+beta=0.500000 
+M_guess=8645 
+FLAG=1, M=8645, n_trials=1, P=1/45
+FLAG=0, M=9050, n_trials=0, P=0/45
+FLAG=0, M=9500, n_trials=0, P=0/45
+FLAG=1, M=9500, n_trials=1, P=1/45
+FLAG=1, M=9500, n_trials=2, P=2/45
+FLAG=1, M=9500, n_trials=3, P=3/45
+FLAG=1, M=9500, n_trials=4, P=4/45
+FLAG=0, M=9950, n_trials=0, P=0/45
+FLAG=1, M=9950, n_trials=1, P=1/45
+FLAG=0, M=10400, n_trials=0, P=0/45
+FLAG=1, M=10400, n_trials=1, P=1/45
+FLAG=0, M=10900, n_trials=0, P=0/45
+FLAG=1, M=10900, n_trials=1, P=1/45
+FLAG=1, M=10900, n_trials=2, P=2/45
+FLAG=1, M=10900, n_trials=3, P=3/45
+FLAG=0, M=11400, n_trials=0, P=0/45
+FLAG=1, M=11400, n_trials=1, P=1/45
+FLAG=1, M=11400, n_trials=2, P=2/45
+FLAG=1, M=11400, n_trials=3, P=3/45
+FLAG=0, M=11950, n_trials=0, P=0/45
+FLAG=1, M=11950, n_trials=1, P=1/45
+FLAG=1, M=11950, n_trials=2, P=2/45
+FLAG=0, M=12500, n_trials=0, P=0/45
+FLAG=1, M=12500, n_trials=1, P=1/45
+FLAG=1, M=12500, n_trials=2, P=2/45
+FLAG=1, M=12500, n_trials=3, P=3/45
+FLAG=1, M=12500, n_trials=4, P=4/45
+FLAG=1, M=12500, n_trials=5, P=5/45
+FLAG=1, M=12500, n_trials=6, P=6/45
+FLAG=1, M=12500, n_trials=7, P=7/45
+FLAG=1, M=12500, n_trials=8, P=8/45
+FLAG=1, M=12500, n_trials=9, P=9/45
+FLAG=1, M=12500, n_trials=10, P=10/45
+FLAG=1, M=12500, n_trials=11, P=11/45
+FLAG=1, M=12500, n_trials=12, P=12/45
+FLAG=1, M=12500, n_trials=13, P=13/45
+FLAG=1, M=12500, n_trials=14, P=14/45
+FLAG=1, M=12500, n_trials=15, P=15/45
+FLAG=1, M=12500, n_trials=16, P=16/45
+FLAG=0, M=13100, n_trials=0, P=0/45
+FLAG=1, M=13100, n_trials=1, P=1/45
+FLAG=0, M=13750, n_trials=0, P=0/45
+FLAG=1, M=13750, n_trials=1, P=1/45
+FLAG=1, M=13750, n_trials=2, P=2/45
+FLAG=1, M=13750, n_trials=3, P=3/45
+[ Info: assuming spin alphabet
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: assuming spin alphabet
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+FLAG=1, M=13750, n_trials=4, P=4/45
+FLAG=1, M=13750, n_trials=5, P=5/45
+FLAG=1, M=13750, n_trials=6, P=6/45
+FLAG=1, M=13750, n_trials=7, P=7/45
+FLAG=1, M=13750, n_trials=8, P=8/45
+FLAG=1, M=13750, n_trials=9, P=9/45
+FLAG=1, M=13750, n_trials=10, P=10/45
+FLAG=1, M=13750, n_trials=11, P=11/45
+FLAG=1, M=13750, n_trials=12, P=12/45
+FLAG=0, M=14400, n_trials=0, P=0/45
+FLAG=1, M=14400, n_trials=1, P=1/45
+FLAG=1, M=14400, n_trials=2, P=2/45
+FLAG=1, M=14400, n_trials=3, P=3/45
+FLAG=1, M=14400, n_trials=4, P=4/45
+FLAG=1, M=14400, n_trials=5, P=5/45
+FLAG=1, M=14400, n_trials=6, P=6/45
+FLAG=1, M=14400, n_trials=7, P=7/45
+FLAG=1, M=14400, n_trials=8, P=8/45
+FLAG=1, M=14400, n_trials=9, P=9/45
+FLAG=0, M=15100, n_trials=0, P=0/45
+FLAG=1, M=15100, n_trials=1, P=1/45
+FLAG=1, M=15100, n_trials=2, P=2/45
+FLAG=1, M=15100, n_trials=3, P=3/45
+FLAG=1, M=15100, n_trials=4, P=4/45
+FLAG=1, M=15100, n_trials=5, P=5/45
+FLAG=1, M=15100, n_trials=6, P=6/45
+FLAG=1, M=15100, n_trials=7, P=7/45
+FLAG=1, M=15100, n_trials=8, P=8/45
+FLAG=1, M=15100, n_trials=9, P=9/45
+FLAG=1, M=15100, n_trials=10, P=10/45
+FLAG=1, M=15100, n_trials=11, P=11/45
+FLAG=1, M=15100, n_trials=12, P=12/45
+FLAG=1, M=15100, n_trials=13, P=13/45
+FLAG=1, M=15100, n_trials=14, P=14/45
+FLAG=1, M=15100, n_trials=15, P=15/45
+FLAG=1, M=15100, n_trials=16, P=16/45
+FLAG=1, M=15100, n_trials=17, P=17/45
+FLAG=1, M=15100, n_trials=18, P=18/45
+FLAG=1, M=15100, n_trials=19, P=19/45
+FLAG=1, M=15100, n_trials=20, P=20/45
+FLAG=1, M=15100, n_trials=21, P=21/45
+FLAG=1, M=15100, n_trials=22, P=22/45
+FLAG=1, M=15100, n_trials=23, P=23/45
+FLAG=1, M=15100, n_trials=24, P=24/45
+FLAG=1, M=15100, n_trials=25, P=25/45
+FLAG=1, M=15100, n_trials=26, P=26/45
+FLAG=1, M=15100, n_trials=27, P=27/45
+FLAG=1, M=15100, n_trials=28, P=28/45
+FLAG=1, M=15100, n_trials=29, P=29/45
+FLAG=1, M=15100, n_trials=30, P=30/45
+FLAG=1, M=15100, n_trials=31, P=31/45
+FLAG=1, M=15100, n_trials=32, P=32/45
+FLAG=1, M=15100, n_trials=33, P=33/45
+FLAG=1, M=15100, n_trials=34, P=34/45
+FLAG=1, M=15100, n_trials=35, P=35/45
+FLAG=1, M=15100, n_trials=36, P=36/45
+FLAG=1, M=15100, n_trials=37, P=37/45
+FLAG=1, M=15100, n_trials=38, P=38/45
+FLAG=1, M=15100, n_trials=39, P=39/45
+FLAG=1, M=15100, n_trials=40, P=40/45
+FLAG=1, M=15100, n_trials=41, P=41/45
+FLAG=1, M=15100, n_trials=42, P=42/45
+FLAG=1, M=15100, n_trials=43, P=43/45
+FLAG=1, M=15100, n_trials=44, P=44/45
+FLAG=1, M=15100, n_trials=45, P=45/45
+beta=0.500000, M_opt=15100 
+beta=0.600000 
+M_guess=19630 
+FLAG=0, M=20600, n_trials=0, P=0/45
+FLAG=0, M=21600, n_trials=0, P=0/45
+FLAG=0, M=22650, n_trials=0, P=0/45
+FLAG=0, M=23750, n_trials=0, P=0/45
+FLAG=0, M=24900, n_trials=0, P=0/45
+FLAG=0, M=26100, n_trials=0, P=0/45
+FLAG=0, M=27400, n_trials=0, P=0/45
+FLAG=0, M=28750, n_trials=0, P=0/45
+FLAG=0, M=30150, n_trials=0, P=0/45
+FLAG=0, M=31650, n_trials=0, P=0/45
+FLAG=0, M=33200, n_trials=0, P=0/45
+FLAG=0, M=34850, n_trials=0, P=0/45
+FLAG=1, M=34850, n_trials=1, P=1/45
+FLAG=0, M=36550, n_trials=0, P=0/45
+FLAG=1, M=36550, n_trials=1, P=1/45
+FLAG=0, M=38350, n_trials=0, P=0/45
+FLAG=0, M=40250, n_trials=0, P=0/45
+FLAG=0, M=42250, n_trials=0, P=0/45
+FLAG=0, M=44350, n_trials=0, P=0/45
+FLAG=0, M=46550, n_trials=0, P=0/45
+FLAG=0, M=48850, n_trials=0, P=0/45
+FLAG=1, M=48850, n_trials=1, P=1/45
+FLAG=1, M=48850, n_trials=2, P=2/45
+FLAG=0, M=51250, n_trials=0, P=0/45
+FLAG=1, M=51250, n_trials=1, P=1/45
+FLAG=0, M=53800, n_trials=0, P=0/45
+FLAG=1, M=53800, n_trials=1, P=1/45
+FLAG=1, M=53800, n_trials=2, P=2/45
+FLAG=0, M=56450, n_trials=0, P=0/45
+FLAG=1, M=56450, n_trials=1, P=1/45
+FLAG=0, M=59250, n_trials=0, P=0/45
+FLAG=0, M=62200, n_trials=0, P=0/45
+FLAG=1, M=62200, n_trials=1, P=1/45
+FLAG=1, M=62200, n_trials=2, P=2/45
+FLAG=1, M=62200, n_trials=3, P=3/45
+FLAG=1, M=62200, n_trials=4, P=4/45
+FLAG=1, M=62200, n_trials=5, P=5/45
+FLAG=1, M=62200, n_trials=6, P=6/45
+FLAG=1, M=62200, n_trials=7, P=7/45
+FLAG=1, M=62200, n_trials=8, P=8/45
+FLAG=1, M=62200, n_trials=9, P=9/45
+FLAG=1, M=62200, n_trials=10, P=10/45
+FLAG=0, M=65300, n_trials=0, P=0/45
+FLAG=1, M=65300, n_trials=1, P=1/45
+FLAG=0, M=68550, n_trials=0, P=0/45
+FLAG=1, M=68550, n_trials=1, P=1/45
+FLAG=1, M=68550, n_trials=2, P=2/45
+FLAG=1, M=68550, n_trials=3, P=3/45
+FLAG=1, M=68550, n_trials=4, P=4/45
+FLAG=1, M=68550, n_trials=5, P=5/45
+FLAG=1, M=68550, n_trials=6, P=6/45
+FLAG=1, M=68550, n_trials=7, P=7/45
+FLAG=0, M=71950, n_trials=0, P=0/45
+FLAG=1, M=71950, n_trials=1, P=1/45
+FLAG=1, M=71950, n_trials=2, P=2/45
+FLAG=1, M=71950, n_trials=3, P=3/45
+FLAG=0, M=75500, n_trials=0, P=0/45
+FLAG=1, M=75500, n_trials=1, P=1/45
+FLAG=1, M=75500, n_trials=2, P=2/45
+FLAG=1, M=75500, n_trials=3, P=3/45
+FLAG=1, M=75500, n_trials=4, P=4/45
+FLAG=1, M=75500, n_trials=5, P=5/45
+FLAG=1, M=75500, n_trials=6, P=6/45
+FLAG=1, M=75500, n_trials=7, P=7/45
+FLAG=1, M=75500, n_trials=8, P=8/45
+FLAG=1, M=75500, n_trials=9, P=9/45
+FLAG=1, M=75500, n_trials=10, P=10/45
+FLAG=1, M=75500, n_trials=11, P=11/45
+FLAG=1, M=75500, n_trials=12, P=12/45
+FLAG=1, M=75500, n_trials=13, P=13/45
+FLAG=0, M=79250, n_trials=0, P=0/45
+FLAG=0, M=83200, n_trials=0, P=0/45
+FLAG=1, M=83200, n_trials=1, P=1/45
+FLAG=1, M=83200, n_trials=2, P=2/45
+FLAG=1, M=83200, n_trials=3, P=3/45
+FLAG=1, M=83200, n_trials=4, P=4/45
+FLAG=1, M=83200, n_trials=5, P=5/45
+FLAG=1, M=83200, n_trials=6, P=6/45
+FLAG=1, M=83200, n_trials=7, P=7/45
+FLAG=1, M=83200, n_trials=8, P=8/45
+FLAG=1, M=83200, n_trials=9, P=9/45
+FLAG=1, M=83200, n_trials=10, P=10/45
+FLAG=1, M=83200, n_trials=11, P=11/45
+FLAG=1, M=83200, n_trials=12, P=12/45
+FLAG=1, M=83200, n_trials=13, P=13/45
+FLAG=1, M=83200, n_trials=14, P=14/45
+FLAG=1, M=83200, n_trials=15, P=15/45
+FLAG=1, M=83200, n_trials=16, P=16/45
+FLAG=1, M=83200, n_trials=17, P=17/45
+FLAG=0, M=87350, n_trials=0, P=0/45
+FLAG=1, M=87350, n_trials=1, P=1/45
+FLAG=1, M=87350, n_trials=2, P=2/45
+FLAG=1, M=87350, n_trials=3, P=3/45
+FLAG=1, M=87350, n_trials=4, P=4/45
+FLAG=1, M=87350, n_trials=5, P=5/45
+FLAG=1, M=87350, n_trials=6, P=6/45
+FLAG=1, M=87350, n_trials=7, P=7/45
+FLAG=1, M=87350, n_trials=8, P=8/45
+FLAG=1, M=87350, n_trials=9, P=9/45
+FLAG=1, M=87350, n_trials=10, P=10/45
+FLAG=1, M=87350, n_trials=11, P=11/45
+FLAG=1, M=87350, n_trials=12, P=12/45
+FLAG=1, M=87350, n_trials=13, P=13/45
+FLAG=1, M=87350, n_trials=14, P=14/45
+FLAG=1, M=87350, n_trials=15, P=15/45
+FLAG=1, M=87350, n_trials=16, P=16/45
+FLAG=1, M=87350, n_trials=17, P=17/45
+FLAG=1, M=87350, n_trials=18, P=18/45
+FLAG=1, M=87350, n_trials=19, P=19/45
+FLAG=1, M=87350, n_trials=20, P=20/45
+FLAG=1, M=87350, n_trials=21, P=21/45
+FLAG=1, M=87350, n_trials=22, P=22/45
+FLAG=1, M=87350, n_trials=23, P=23/45
+FLAG=1, M=87350, n_trials=24, P=24/45
+FLAG=1, M=87350, n_trials=25, P=25/45
+FLAG=1, M=87350, n_trials=26, P=26/45
+FLAG=1, M=87350, n_trials=27, P=27/45
+FLAG=1, M=87350, n_trials=28, P=28/45
+FLAG=0, M=91700, n_trials=0, P=0/45
+FLAG=1, M=91700, n_trials=1, P=1/45
+FLAG=1, M=91700, n_trials=2, P=2/45
+FLAG=1, M=91700, n_trials=3, P=3/45
+FLAG=1, M=91700, n_trials=4, P=4/45
+FLAG=1, M=91700, n_trials=5, P=5/45
+FLAG=0, M=96250, n_trials=0, P=0/45
+FLAG=1, M=96250, n_trials=1, P=1/45
+FLAG=1, M=96250, n_trials=2, P=2/45
+FLAG=1, M=96250, n_trials=3, P=3/45
+FLAG=1, M=96250, n_trials=4, P=4/45
+FLAG=1, M=96250, n_trials=5, P=5/45
+FLAG=1, M=96250, n_trials=6, P=6/45
+FLAG=1, M=96250, n_trials=7, P=7/45
+FLAG=1, M=96250, n_trials=8, P=8/45
+FLAG=1, M=96250, n_trials=9, P=9/45
+FLAG=1, M=96250, n_trials=10, P=10/45
+FLAG=1, M=96250, n_trials=11, P=11/45
+FLAG=1, M=96250, n_trials=12, P=12/45
+FLAG=1, M=96250, n_trials=13, P=13/45
+FLAG=1, M=96250, n_trials=14, P=14/45
+FLAG=1, M=96250, n_trials=15, P=15/45
+FLAG=1, M=96250, n_trials=16, P=16/45
+FLAG=1, M=96250, n_trials=17, P=17/45
+FLAG=1, M=96250, n_trials=18, P=18/45
+FLAG=1, M=96250, n_trials=19, P=19/45
+FLAG=1, M=96250, n_trials=20, P=20/45
+FLAG=1, M=96250, n_trials=21, P=21/45
+FLAG=1, M=96250, n_trials=22, P=22/45
+FLAG=0, M=101050, n_trials=0, P=0/45
+FLAG=1, M=101050, n_trials=1, P=1/45
+FLAG=1, M=101050, n_trials=2, P=2/45
+FLAG=1, M=101050, n_trials=3, P=3/45
+FLAG=1, M=101050, n_trials=4, P=4/45
+FLAG=0, M=106100, n_trials=0, P=0/45
+FLAG=1, M=106100, n_trials=1, P=1/45
+FLAG=1, M=106100, n_trials=2, P=2/45
+FLAG=1, M=106100, n_trials=3, P=3/45
+FLAG=1, M=106100, n_trials=4, P=4/45
+FLAG=1, M=106100, n_trials=5, P=5/45
+FLAG=1, M=106100, n_trials=6, P=6/45
+FLAG=1, M=106100, n_trials=7, P=7/45
+FLAG=1, M=106100, n_trials=8, P=8/45
+FLAG=1, M=106100, n_trials=9, P=9/45
+FLAG=1, M=106100, n_trials=10, P=10/45
+FLAG=1, M=106100, n_trials=11, P=11/45
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: assuming spin alphabet
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+FLAG=1, M=106100, n_trials=12, P=12/45
+FLAG=1, M=106100, n_trials=13, P=13/45
+FLAG=1, M=106100, n_trials=14, P=14/45
+FLAG=1, M=106100, n_trials=15, P=15/45
+FLAG=1, M=106100, n_trials=16, P=16/45
+FLAG=1, M=106100, n_trials=17, P=17/45
+FLAG=1, M=106100, n_trials=18, P=18/45
+FLAG=1, M=106100, n_trials=19, P=19/45
+FLAG=1, M=106100, n_trials=20, P=20/45
+FLAG=1, M=106100, n_trials=21, P=21/45
+FLAG=1, M=106100, n_trials=22, P=22/45
+FLAG=1, M=106100, n_trials=23, P=23/45
+FLAG=1, M=106100, n_trials=24, P=24/45
+FLAG=1, M=106100, n_trials=25, P=25/45
+FLAG=1, M=106100, n_trials=26, P=26/45
+FLAG=1, M=106100, n_trials=27, P=27/45
+FLAG=1, M=106100, n_trials=28, P=28/45
+FLAG=1, M=106100, n_trials=29, P=29/45
+FLAG=1, M=106100, n_trials=30, P=30/45
+FLAG=1, M=106100, n_trials=31, P=31/45
+FLAG=1, M=106100, n_trials=32, P=32/45
+FLAG=1, M=106100, n_trials=33, P=33/45
+FLAG=1, M=106100, n_trials=34, P=34/45
+FLAG=1, M=106100, n_trials=35, P=35/45
+FLAG=1, M=106100, n_trials=36, P=36/45
+FLAG=1, M=106100, n_trials=37, P=37/45
+FLAG=1, M=106100, n_trials=38, P=38/45
+FLAG=1, M=106100, n_trials=39, P=39/45
+FLAG=1, M=106100, n_trials=40, P=40/45
+FLAG=1, M=106100, n_trials=41, P=41/45
+FLAG=1, M=106100, n_trials=42, P=42/45
+FLAG=1, M=106100, n_trials=43, P=43/45
+FLAG=1, M=106100, n_trials=44, P=44/45
+FLAG=1, M=106100, n_trials=45, P=45/45
+beta=0.600000, M_opt=106100 
+beta=0.700000 
+M_guess=137930 
+FLAG=0, M=144800, n_trials=0, P=0/45
+FLAG=0, M=152000, n_trials=0, P=0/45
+FLAG=0, M=159600, n_trials=0, P=0/45
+FLAG=0, M=167550, n_trials=0, P=0/45
+FLAG=0, M=175900, n_trials=0, P=0/45
+FLAG=0, M=184650, n_trials=0, P=0/45
+FLAG=0, M=193850, n_trials=0, P=0/45
+FLAG=0, M=203500, n_trials=0, P=0/45
+FLAG=0, M=213650, n_trials=0, P=0/45
+FLAG=0, M=224300, n_trials=0, P=0/45
+FLAG=0, M=235500, n_trials=0, P=0/45
+FLAG=0, M=247250, n_trials=0, P=0/45
+FLAG=0, M=259600, n_trials=0, P=0/45
+FLAG=0, M=272550, n_trials=0, P=0/45
+FLAG=0, M=286150, n_trials=0, P=0/45
+FLAG=0, M=300450, n_trials=0, P=0/45
+FLAG=0, M=315450, n_trials=0, P=0/45
+FLAG=0, M=331200, n_trials=0, P=0/45
+FLAG=0, M=347750, n_trials=0, P=0/45
+FLAG=0, M=365100, n_trials=0, P=0/45
+FLAG=0, M=383350, n_trials=0, P=0/45
+FLAG=0, M=402500, n_trials=0, P=0/45
+FLAG=0, M=422600, n_trials=0, P=0/45
+FLAG=0, M=443700, n_trials=0, P=0/45
+FLAG=1, M=443700, n_trials=1, P=1/45
+FLAG=1, M=443700, n_trials=2, P=2/45
+FLAG=1, M=443700, n_trials=3, P=3/45
+FLAG=0, M=465850, n_trials=0, P=0/45
+FLAG=0, M=489100, n_trials=0, P=0/45
+FLAG=0, M=513550, n_trials=0, P=0/45
+FLAG=1, M=513550, n_trials=1, P=1/45
+FLAG=0, M=539200, n_trials=0, P=0/45
+FLAG=0, M=566150, n_trials=0, P=0/45
+FLAG=0, M=594450, n_trials=0, P=0/45
+FLAG=0, M=624150, n_trials=0, P=0/45
+FLAG=1, M=624150, n_trials=1, P=1/45
+FLAG=1, M=624150, n_trials=2, P=2/45
+FLAG=1, M=624150, n_trials=3, P=3/45
+FLAG=0, M=655350, n_trials=0, P=0/45
+FLAG=0, M=688100, n_trials=0, P=0/45
+FLAG=1, M=688100, n_trials=1, P=1/45
+FLAG=1, M=688100, n_trials=2, P=2/45
+FLAG=1, M=688100, n_trials=3, P=3/45
+FLAG=1, M=688100, n_trials=4, P=4/45
+FLAG=1, M=688100, n_trials=5, P=5/45
+FLAG=0, M=722500, n_trials=0, P=0/45
+FLAG=1, M=722500, n_trials=1, P=1/45
+FLAG=1, M=722500, n_trials=2, P=2/45
+FLAG=0, M=758600, n_trials=0, P=0/45
+FLAG=1, M=758600, n_trials=1, P=1/45
+FLAG=1, M=758600, n_trials=2, P=2/45
+FLAG=1, M=758600, n_trials=3, P=3/45
+FLAG=1, M=758600, n_trials=4, P=4/45
+FLAG=1, M=758600, n_trials=5, P=5/45
+FLAG=1, M=758600, n_trials=6, P=6/45
+FLAG=0, M=796500, n_trials=0, P=0/45
+FLAG=1, M=796500, n_trials=1, P=1/45
+FLAG=1, M=796500, n_trials=2, P=2/45
+FLAG=1, M=796500, n_trials=3, P=3/45
+FLAG=1, M=796500, n_trials=4, P=4/45
+FLAG=0, M=836300, n_trials=0, P=0/45
+FLAG=1, M=836300, n_trials=1, P=1/45
+FLAG=1, M=836300, n_trials=2, P=2/45
+FLAG=1, M=836300, n_trials=3, P=3/45
+FLAG=1, M=836300, n_trials=4, P=4/45
+FLAG=1, M=836300, n_trials=5, P=5/45
+FLAG=1, M=836300, n_trials=6, P=6/45
+FLAG=1, M=836300, n_trials=7, P=7/45
+FLAG=1, M=836300, n_trials=8, P=8/45
+FLAG=1, M=836300, n_trials=9, P=9/45
+FLAG=1, M=836300, n_trials=10, P=10/45
+FLAG=0, M=878100, n_trials=0, P=0/45
+FLAG=1, M=878100, n_trials=1, P=1/45
+FLAG=1, M=878100, n_trials=2, P=2/45
+FLAG=1, M=878100, n_trials=3, P=3/45
+FLAG=1, M=878100, n_trials=4, P=4/45
+FLAG=1, M=878100, n_trials=5, P=5/45
+FLAG=1, M=878100, n_trials=6, P=6/45
+FLAG=1, M=878100, n_trials=7, P=7/45
+FLAG=1, M=878100, n_trials=8, P=8/45
+FLAG=1, M=878100, n_trials=9, P=9/45
+FLAG=1, M=878100, n_trials=10, P=10/45
+FLAG=1, M=878100, n_trials=11, P=11/45
+FLAG=1, M=878100, n_trials=12, P=12/45
+FLAG=1, M=878100, n_trials=13, P=13/45
+FLAG=1, M=878100, n_trials=14, P=14/45
+FLAG=1, M=878100, n_trials=15, P=15/45
+FLAG=1, M=878100, n_trials=16, P=16/45
+FLAG=1, M=878100, n_trials=17, P=17/45
+FLAG=1, M=878100, n_trials=18, P=18/45
+FLAG=1, M=878100, n_trials=19, P=19/45
+FLAG=1, M=878100, n_trials=20, P=20/45
+FLAG=1, M=878100, n_trials=21, P=21/45
+FLAG=0, M=922000, n_trials=0, P=0/45
+FLAG=1, M=922000, n_trials=1, P=1/45
+FLAG=1, M=922000, n_trials=2, P=2/45
+FLAG=1, M=922000, n_trials=3, P=3/45
+FLAG=1, M=922000, n_trials=4, P=4/45
+FLAG=1, M=922000, n_trials=5, P=5/45
+FLAG=1, M=922000, n_trials=6, P=6/45
+FLAG=1, M=922000, n_trials=7, P=7/45
+FLAG=1, M=922000, n_trials=8, P=8/45
+FLAG=1, M=922000, n_trials=9, P=9/45
+FLAG=1, M=922000, n_trials=10, P=10/45
+FLAG=1, M=922000, n_trials=11, P=11/45
+FLAG=1, M=922000, n_trials=12, P=12/45
+FLAG=1, M=922000, n_trials=13, P=13/45
+FLAG=1, M=922000, n_trials=14, P=14/45
+FLAG=0, M=968100, n_trials=0, P=0/45
+FLAG=1, M=968100, n_trials=1, P=1/45
+FLAG=1, M=968100, n_trials=2, P=2/45
+FLAG=1, M=968100, n_trials=3, P=3/45
+FLAG=1, M=968100, n_trials=4, P=4/45
+FLAG=1, M=968100, n_trials=5, P=5/45
+FLAG=1, M=968100, n_trials=6, P=6/45
+FLAG=1, M=968100, n_trials=7, P=7/45
+FLAG=1, M=968100, n_trials=8, P=8/45
+FLAG=1, M=968100, n_trials=9, P=9/45
+FLAG=1, M=968100, n_trials=10, P=10/45
+FLAG=1, M=968100, n_trials=11, P=11/45
+FLAG=1, M=968100, n_trials=12, P=12/45
+FLAG=1, M=968100, n_trials=13, P=13/45
+FLAG=1, M=968100, n_trials=14, P=14/45
+FLAG=1, M=968100, n_trials=15, P=15/45
+FLAG=1, M=968100, n_trials=16, P=16/45
+FLAG=1, M=968100, n_trials=17, P=17/45
+FLAG=1, M=968100, n_trials=18, P=18/45
+FLAG=1, M=968100, n_trials=19, P=19/45
+FLAG=1, M=968100, n_trials=20, P=20/45
+FLAG=1, M=968100, n_trials=21, P=21/45
+FLAG=1, M=968100, n_trials=22, P=22/45
+FLAG=1, M=968100, n_trials=23, P=23/45
+FLAG=1, M=968100, n_trials=24, P=24/45
+FLAG=1, M=968100, n_trials=25, P=25/45
+FLAG=1, M=968100, n_trials=26, P=26/45
+FLAG=1, M=968100, n_trials=27, P=27/45
+FLAG=1, M=968100, n_trials=28, P=28/45
+FLAG=1, M=968100, n_trials=29, P=29/45
+FLAG=1, M=968100, n_trials=30, P=30/45
+FLAG=1, M=968100, n_trials=31, P=31/45
+FLAG=1, M=968100, n_trials=32, P=32/45
+FLAG=1, M=968100, n_trials=33, P=33/45
+FLAG=1, M=968100, n_trials=34, P=34/45
+FLAG=1, M=968100, n_trials=35, P=35/45
+FLAG=1, M=968100, n_trials=36, P=36/45
+FLAG=1, M=968100, n_trials=37, P=37/45
+FLAG=1, M=968100, n_trials=38, P=38/45
+FLAG=1, M=968100, n_trials=39, P=39/45
+FLAG=1, M=968100, n_trials=40, P=40/45
+FLAG=1, M=968100, n_trials=41, P=41/45
+FLAG=1, M=968100, n_trials=42, P=42/45
+FLAG=1, M=968100, n_trials=43, P=43/45
+FLAG=1, M=968100, n_trials=44, P=44/45
+FLAG=1, M=968100, n_trials=45, P=45/45
+beta=0.700000, M_opt=968100 
+beta=0.800000 
+M_guess=1258530 
+FLAG=0, M=1321450, n_trials=0, P=0/45
+FLAG=0, M=1387500, n_trials=0, P=0/45
+FLAG=0, M=1456850, n_trials=0, P=0/45
+FLAG=0, M=1529650, n_trials=0, P=0/45
+FLAG=0, M=1606100, n_trials=0, P=0/45
+FLAG=0, M=1686400, n_trials=0, P=0/45
+FLAG=0, M=1770700, n_trials=0, P=0/45
+FLAG=0, M=1859200, n_trials=0, P=0/45
+FLAG=0, M=1952150, n_trials=0, P=0/45
+FLAG=0, M=2049750, n_trials=0, P=0/45
+FLAG=0, M=2152200, n_trials=0, P=0/45
+FLAG=0, M=2259800, n_trials=0, P=0/45
+FLAG=0, M=2372750, n_trials=0, P=0/45
+FLAG=0, M=2491350, n_trials=0, P=0/45
+FLAG=0, M=2615900, n_trials=0, P=0/45
+FLAG=0, M=2746650, n_trials=0, P=0/45
+FLAG=0, M=2883950, n_trials=0, P=0/45
+FLAG=0, M=3028100, n_trials=0, P=0/45
+FLAG=0, M=3179500, n_trials=0, P=0/45
+FLAG=0, M=3338450, n_trials=0, P=0/45
+FLAG=0, M=3505350, n_trials=0, P=0/45
+FLAG=0, M=3680600, n_trials=0, P=0/45
+FLAG=0, M=3864600, n_trials=0, P=0/45
+FLAG=0, M=4057800, n_trials=0, P=0/45
+FLAG=0, M=4260650, n_trials=0, P=0/45
+FLAG=0, M=4473650, n_trials=0, P=0/45
+FLAG=0, M=4697300, n_trials=0, P=0/45
+FLAG=1, M=4697300, n_trials=1, P=1/45
+FLAG=0, M=4932150, n_trials=0, P=0/45
+FLAG=0, M=5178750, n_trials=0, P=0/45
+FLAG=0, M=5437650, n_trials=0, P=0/45
+FLAG=0, M=5709500, n_trials=0, P=0/45
+FLAG=0, M=5994950, n_trials=0, P=0/45
+FLAG=1, M=5994950, n_trials=1, P=1/45
+FLAG=1, M=5994950, n_trials=2, P=2/45
+FLAG=1, M=5994950, n_trials=3, P=3/45
+FLAG=1, M=5994950, n_trials=4, P=4/45
+FLAG=1, M=5994950, n_trials=5, P=5/45
+FLAG=1, M=5994950, n_trials=6, P=6/45
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: assuming spin alphabet
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: assuming spin alphabet
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+FLAG=1, M=5994950, n_trials=7, P=7/45
+FLAG=1, M=5994950, n_trials=8, P=8/45
+FLAG=1, M=5994950, n_trials=9, P=9/45
+FLAG=0, M=6294650, n_trials=0, P=0/45
+FLAG=1, M=6294650, n_trials=1, P=1/45
+FLAG=1, M=6294650, n_trials=2, P=2/45
+FLAG=1, M=6294650, n_trials=3, P=3/45
+FLAG=0, M=6609350, n_trials=0, P=0/45
+FLAG=1, M=6609350, n_trials=1, P=1/45
+FLAG=1, M=6609350, n_trials=2, P=2/45
+FLAG=1, M=6609350, n_trials=3, P=3/45
+FLAG=1, M=6609350, n_trials=4, P=4/45
+FLAG=0, M=6939800, n_trials=0, P=0/45
+FLAG=1, M=6939800, n_trials=1, P=1/45
+FLAG=1, M=6939800, n_trials=2, P=2/45
+FLAG=0, M=7286750, n_trials=0, P=0/45
+FLAG=1, M=7286750, n_trials=1, P=1/45
+FLAG=1, M=7286750, n_trials=2, P=2/45
+FLAG=1, M=7286750, n_trials=3, P=3/45
+FLAG=1, M=7286750, n_trials=4, P=4/45
+FLAG=1, M=7286750, n_trials=5, P=5/45
+FLAG=1, M=7286750, n_trials=6, P=6/45
+FLAG=1, M=7286750, n_trials=7, P=7/45
+FLAG=1, M=7286750, n_trials=8, P=8/45
+FLAG=1, M=7286750, n_trials=9, P=9/45
+FLAG=1, M=7286750, n_trials=10, P=10/45
+FLAG=1, M=7286750, n_trials=11, P=11/45
+FLAG=1, M=7286750, n_trials=12, P=12/45
+FLAG=1, M=7286750, n_trials=13, P=13/45
+FLAG=1, M=7286750, n_trials=14, P=14/45
+FLAG=1, M=7286750, n_trials=15, P=15/45
+FLAG=1, M=7286750, n_trials=16, P=16/45
+FLAG=1, M=7286750, n_trials=17, P=17/45
+FLAG=1, M=7286750, n_trials=18, P=18/45
+FLAG=1, M=7286750, n_trials=19, P=19/45
+FLAG=1, M=7286750, n_trials=20, P=20/45
+FLAG=1, M=7286750, n_trials=21, P=21/45
+FLAG=1, M=7286750, n_trials=22, P=22/45
+FLAG=1, M=7286750, n_trials=23, P=23/45
+FLAG=0, M=7651050, n_trials=0, P=0/45
+FLAG=1, M=7651050, n_trials=1, P=1/45
+FLAG=1, M=7651050, n_trials=2, P=2/45
+FLAG=1, M=7651050, n_trials=3, P=3/45
+FLAG=1, M=7651050, n_trials=4, P=4/45
+FLAG=1, M=7651050, n_trials=5, P=5/45
+FLAG=1, M=7651050, n_trials=6, P=6/45
+FLAG=1, M=7651050, n_trials=7, P=7/45
+FLAG=1, M=7651050, n_trials=8, P=8/45
+FLAG=1, M=7651050, n_trials=9, P=9/45
+FLAG=1, M=7651050, n_trials=10, P=10/45
+FLAG=1, M=7651050, n_trials=11, P=11/45
+FLAG=1, M=7651050, n_trials=12, P=12/45
+FLAG=1, M=7651050, n_trials=13, P=13/45
+FLAG=1, M=7651050, n_trials=14, P=14/45
+FLAG=1, M=7651050, n_trials=15, P=15/45
+FLAG=1, M=7651050, n_trials=16, P=16/45
+FLAG=1, M=7651050, n_trials=17, P=17/45
+FLAG=1, M=7651050, n_trials=18, P=18/45
+FLAG=1, M=7651050, n_trials=19, P=19/45
+FLAG=1, M=7651050, n_trials=20, P=20/45
+FLAG=1, M=7651050, n_trials=21, P=21/45
+FLAG=1, M=7651050, n_trials=22, P=22/45
+FLAG=1, M=7651050, n_trials=23, P=23/45
+FLAG=1, M=7651050, n_trials=24, P=24/45
+FLAG=1, M=7651050, n_trials=25, P=25/45
+FLAG=1, M=7651050, n_trials=26, P=26/45
+FLAG=1, M=7651050, n_trials=27, P=27/45
+FLAG=1, M=7651050, n_trials=28, P=28/45
+FLAG=1, M=7651050, n_trials=29, P=29/45
+FLAG=1, M=7651050, n_trials=30, P=30/45
+FLAG=1, M=7651050, n_trials=31, P=31/45
+FLAG=1, M=7651050, n_trials=32, P=32/45
+FLAG=1, M=7651050, n_trials=33, P=33/45
+FLAG=1, M=7651050, n_trials=34, P=34/45
+FLAG=1, M=7651050, n_trials=35, P=35/45
+FLAG=1, M=7651050, n_trials=36, P=36/45
+FLAG=1, M=7651050, n_trials=37, P=37/45
+FLAG=1, M=7651050, n_trials=38, P=38/45
+FLAG=1, M=7651050, n_trials=39, P=39/45
+FLAG=1, M=7651050, n_trials=40, P=40/45
+FLAG=1, M=7651050, n_trials=41, P=41/45
+FLAG=1, M=7651050, n_trials=42, P=42/45
+FLAG=1, M=7651050, n_trials=43, P=43/45
+FLAG=1, M=7651050, n_trials=44, P=44/45
+FLAG=1, M=7651050, n_trials=45, P=45/45
+beta=0.800000, M_opt=7651050 
+beta=0.900000 
+M_guess=9946365 
+FLAG=0, M=10443650, n_trials=0, P=0/45
+FLAG=0, M=10965800, n_trials=0, P=0/45
+FLAG=0, M=11514050, n_trials=0, P=0/45
+FLAG=0, M=12089750, n_trials=0, P=0/45
+FLAG=0, M=12694200, n_trials=0, P=0/45
+FLAG=0, M=13328900, n_trials=0, P=0/45
+FLAG=0, M=13995300, n_trials=0, P=0/45
+FLAG=0, M=14695050, n_trials=0, P=0/45
+FLAG=0, M=15429800, n_trials=0, P=0/45
+FLAG=0, M=16201250, n_trials=0, P=0/45
+FLAG=0, M=17011300, n_trials=0, P=0/45
+FLAG=0, M=17861850, n_trials=0, P=0/45
+FLAG=0, M=18754900, n_trials=0, P=0/45
+FLAG=0, M=19692600, n_trials=0, P=0/45
+FLAG=0, M=20677200, n_trials=0, P=0/45
+FLAG=0, M=21711050, n_trials=0, P=0/45
+FLAG=0, M=22796600, n_trials=0, P=0/45
+FLAG=0, M=23936400, n_trials=0, P=0/45
+FLAG=0, M=25133200, n_trials=0, P=0/45
+FLAG=0, M=26389850, n_trials=0, P=0/45
+FLAG=0, M=27709300, n_trials=0, P=0/45
+FLAG=0, M=29094750, n_trials=0, P=0/45
+FLAG=0, M=30549450, n_trials=0, P=0/45
+FLAG=0, M=32076900, n_trials=0, P=0/45
+FLAG=0, M=33680700, n_trials=0, P=0/45
+FLAG=0, M=35364700, n_trials=0, P=0/45
+FLAG=0, M=37132900, n_trials=0, P=0/45
+FLAG=0, M=38989500, n_trials=0, P=0/45
+FLAG=0, M=40938950, n_trials=0, P=0/45
+FLAG=0, M=42985850, n_trials=0, P=0/45
+FLAG=0, M=45135100, n_trials=0, P=0/45
+FLAG=0, M=47391850, n_trials=0, P=0/45
+FLAG=0, M=49761400, n_trials=0, P=0/45
+FLAG=1, M=49761400, n_trials=1, P=1/45
+FLAG=0, M=52249450, n_trials=0, P=0/45
+FLAG=0, M=54861900, n_trials=0, P=0/45
+FLAG=1, M=54861900, n_trials=1, P=1/45
+FLAG=1, M=54861900, n_trials=2, P=2/45
+FLAG=1, M=54861900, n_trials=3, P=3/45
+FLAG=1, M=54861900, n_trials=4, P=4/45
+FLAG=1, M=54861900, n_trials=5, P=5/45
+FLAG=1, M=54861900, n_trials=6, P=6/45
+FLAG=1, M=54861900, n_trials=7, P=7/45
+FLAG=1, M=54861900, n_trials=8, P=8/45
+FLAG=1, M=54861900, n_trials=9, P=9/45
+FLAG=1, M=54861900, n_trials=10, P=10/45
+FLAG=1, M=54861900, n_trials=11, P=11/45
+FLAG=1, M=54861900, n_trials=12, P=12/45
+FLAG=1, M=54861900, n_trials=13, P=13/45
+FLAG=1, M=54861900, n_trials=14, P=14/45
+FLAG=1, M=54861900, n_trials=15, P=15/45
+FLAG=1, M=54861900, n_trials=16, P=16/45
+FLAG=1, M=54861900, n_trials=17, P=17/45
+FLAG=1, M=54861900, n_trials=18, P=18/45
+FLAG=1, M=54861900, n_trials=19, P=19/45
+FLAG=1, M=54861900, n_trials=20, P=20/45
+FLAG=1, M=54861900, n_trials=21, P=21/45
+FLAG=1, M=54861900, n_trials=22, P=22/45
+FLAG=1, M=54861900, n_trials=23, P=23/45
+FLAG=1, M=54861900, n_trials=24, P=24/45
+FLAG=1, M=54861900, n_trials=25, P=25/45
+FLAG=1, M=54861900, n_trials=26, P=26/45
+FLAG=1, M=54861900, n_trials=27, P=27/45
+FLAG=1, M=54861900, n_trials=28, P=28/45
+FLAG=1, M=54861900, n_trials=29, P=29/45
+FLAG=1, M=54861900, n_trials=30, P=30/45
+FLAG=1, M=54861900, n_trials=31, P=31/45
+FLAG=1, M=54861900, n_trials=32, P=32/45
+FLAG=1, M=54861900, n_trials=33, P=33/45
+FLAG=1, M=54861900, n_trials=34, P=34/45
+FLAG=1, M=54861900, n_trials=35, P=35/45
+FLAG=1, M=54861900, n_trials=36, P=36/45
+FLAG=1, M=54861900, n_trials=37, P=37/45
+FLAG=1, M=54861900, n_trials=38, P=38/45
+FLAG=1, M=54861900, n_trials=39, P=39/45
+FLAG=1, M=54861900, n_trials=40, P=40/45
+FLAG=1, M=54861900, n_trials=41, P=41/45
+FLAG=1, M=54861900, n_trials=42, P=42/45
+FLAG=0, M=57604950, n_trials=0, P=0/45
+FLAG=1, M=57604950, n_trials=1, P=1/45
+FLAG=1, M=57604950, n_trials=2, P=2/45
+FLAG=1, M=57604950, n_trials=3, P=3/45
+FLAG=1, M=57604950, n_trials=4, P=4/45
+FLAG=1, M=57604950, n_trials=5, P=5/45
+FLAG=1, M=57604950, n_trials=6, P=6/45
+FLAG=1, M=57604950, n_trials=7, P=7/45
+FLAG=1, M=57604950, n_trials=8, P=8/45
+FLAG=1, M=57604950, n_trials=9, P=9/45
+FLAG=1, M=57604950, n_trials=10, P=10/45
+FLAG=1, M=57604950, n_trials=11, P=11/45
+FLAG=1, M=57604950, n_trials=12, P=12/45
+FLAG=1, M=57604950, n_trials=13, P=13/45
+FLAG=0, M=60485150, n_trials=0, P=0/45
+FLAG=1, M=60485150, n_trials=1, P=1/45
+FLAG=1, M=60485150, n_trials=2, P=2/45
+FLAG=1, M=60485150, n_trials=3, P=3/45
+FLAG=1, M=60485150, n_trials=4, P=4/45
+FLAG=1, M=60485150, n_trials=5, P=5/45
+FLAG=1, M=60485150, n_trials=6, P=6/45
+FLAG=1, M=60485150, n_trials=7, P=7/45
+FLAG=1, M=60485150, n_trials=8, P=8/45
+FLAG=1, M=60485150, n_trials=9, P=9/45
+FLAG=1, M=60485150, n_trials=10, P=10/45
+FLAG=1, M=60485150, n_trials=11, P=11/45
+FLAG=1, M=60485150, n_trials=12, P=12/45
+FLAG=1, M=60485150, n_trials=13, P=13/45
+FLAG=1, M=60485150, n_trials=14, P=14/45
+FLAG=1, M=60485150, n_trials=15, P=15/45
+FLAG=1, M=60485150, n_trials=16, P=16/45
+FLAG=1, M=60485150, n_trials=17, P=17/45
+FLAG=1, M=60485150, n_trials=18, P=18/45
+FLAG=1, M=60485150, n_trials=19, P=19/45
+FLAG=1, M=60485150, n_trials=20, P=20/45
+FLAG=1, M=60485150, n_trials=21, P=21/45
+FLAG=1, M=60485150, n_trials=22, P=22/45
+FLAG=1, M=60485150, n_trials=23, P=23/45
+FLAG=1, M=60485150, n_trials=24, P=24/45
+FLAG=1, M=60485150, n_trials=25, P=25/45
+FLAG=1, M=60485150, n_trials=26, P=26/45
+FLAG=1, M=60485150, n_trials=27, P=27/45
+FLAG=1, M=60485150, n_trials=28, P=28/45
+FLAG=1, M=60485150, n_trials=29, P=29/45
+FLAG=1, M=60485150, n_trials=30, P=30/45
+FLAG=1, M=60485150, n_trials=31, P=31/45
+FLAG=1, M=60485150, n_trials=32, P=32/45
+FLAG=1, M=60485150, n_trials=33, P=33/45
+FLAG=1, M=60485150, n_trials=34, P=34/45
+FLAG=1, M=60485150, n_trials=35, P=35/45
+FLAG=1, M=60485150, n_trials=36, P=36/45
+FLAG=1, M=60485150, n_trials=37, P=37/45
+FLAG=1, M=60485150, n_trials=38, P=38/45
+FLAG=1, M=60485150, n_trials=39, P=39/45
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: assuming spin alphabet
+[ Info: using Glauber dynamics v2 to generate T-regime samples
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples with binning
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples with binning
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples with binning
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples with binning
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples with binning
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples with binning
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples with binning
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples with binning
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples with binning
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples with binning
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples with binning
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples with binning
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples with binning
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples with binning
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples with binning
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples with binning
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples with binning
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples with binning
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples with binning
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples with binning
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples with binning
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples with binning
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples with binning
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples with binning
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples with binning
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples with binning
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples with binning
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples with binning
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples with binning
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples with binning
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples with binning
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples with binning
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples with binning
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples with binning
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples with binning
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples with binning
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples with binning
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples with binning
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples with binning
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples with binning
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples with binning
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples with binning
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples with binning
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples with binning
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples with binning
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples with binning
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples with binning
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples with binning
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples with binning
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples with binning
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples with binning
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples with binning
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples with binning
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples with binning
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples with binning
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples with binning
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples with binning
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples with binning
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples with binning
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples with binning
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples with binning
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples with binning
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples with binning
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples with binning
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples with binning
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples with binning
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples with binning
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples with binning
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples with binning
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples with binning
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples with binning
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples with binning
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples with binning
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples with binning
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples with binning
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples with binning
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples with binning
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples with binning
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples with binning
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples with binning
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples with binning
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples with binning
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples with binning
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples with binning
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples with binning
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples with binning
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples with binning
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples with binning
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples with binning
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples with binning
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples with binning
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples with binning
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples with binning
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples with binning
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples with binning
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples with binning
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples with binning
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples with binning
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples with binning
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples with binning
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples with binning
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples with binning
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples with binning
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples with binning
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples with binning
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples with binning
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples with binning
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples with binning
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples with binning
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples with binning
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples with binning
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples with binning
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples with binning
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples with binning
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples with binning
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples with binning
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples with binning
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples with binning
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples with binning
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples with binning
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples with binning
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples with binning
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples with binning
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples with binning
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples with binning
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples with binning
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples with binning
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples with binning
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples with binning
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples with binning
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples with binning
+[ Info: using JuMP for RPLE with right regularization to learn Glauber dynamics
+[ Info: using Glauber dynamics v2 to generate T-regime samples with binning
+FLAG=1, M=60485150, n_trials=40, P=40/45
+FLAG=1, M=60485150, n_trials=41, P=41/45
+FLAG=1, M=60485150, n_trials=42, P=42/45
+FLAG=1, M=60485150, n_trials=43, P=43/45
+FLAG=1, M=60485150, n_trials=44, P=44/45
+FLAG=1, M=60485150, n_trials=45, P=45/45
+beta=0.900000, M_opt=60485150 
+beta=1.000000 
+M_guess=78630695 
+FLAG=0, M=82562200, n_trials=0, P=0/45
+FLAG=0, M=86690300, n_trials=0, P=0/45
+FLAG=0, M=91024800, n_trials=0, P=0/45
+FLAG=0, M=95576000, n_trials=0, P=0/45
+FLAG=0, M=100354800, n_trials=0, P=0/45
+FLAG=0, M=105372500, n_trials=0, P=0/45
+FLAG=0, M=110641100, n_trials=0, P=0/45
+FLAG=0, M=116173150, n_trials=0, P=0/45
+FLAG=0, M=121981800, n_trials=0, P=0/45
+FLAG=0, M=128080850, n_trials=0, P=0/45
+FLAG=0, M=134484850, n_trials=0, P=0/45
+FLAG=0, M=141209050, n_trials=0, P=0/45
+FLAG=0, M=148269500, n_trials=0, P=0/45
+FLAG=0, M=155682950, n_trials=0, P=0/45
+FLAG=0, M=163467050, n_trials=0, P=0/45
+FLAG=0, M=171640400, n_trials=0, P=0/45
+FLAG=0, M=180222400, n_trials=0, P=0/45
+FLAG=0, M=189233500, n_trials=0, P=0/45
+FLAG=0, M=198695150, n_trials=0, P=0/45
+FLAG=0, M=208629900, n_trials=0, P=0/45
+FLAG=0, M=219061350, n_trials=0, P=0/45
+FLAG=0, M=230014400, n_trials=0, P=0/45
+FLAG=0, M=241515100, n_trials=0, P=0/45
+FLAG=0, M=253590850, n_trials=0, P=0/45
+FLAG=0, M=266270350, n_trials=0, P=0/45
+FLAG=0, M=279583850, n_trials=0, P=0/45
+FLAG=0, M=293563000, n_trials=0, P=0/45
+FLAG=0, M=308241150, n_trials=0, P=0/45
+FLAG=0, M=323653200, n_trials=0, P=0/45
+FLAG=0, M=339835850, n_trials=0, P=0/45
+FLAG=0, M=356827600, n_trials=0, P=0/45
+FLAG=0, M=374668950, n_trials=0, P=0/45
+FLAG=0, M=393402350, n_trials=0, P=0/45
+FLAG=0, M=413072450, n_trials=0, P=0/45
+FLAG=0, M=433726050, n_trials=0, P=0/45
+FLAG=1, M=433726050, n_trials=1, P=1/45
+FLAG=1, M=433726050, n_trials=2, P=2/45
+FLAG=1, M=433726050, n_trials=3, P=3/45
+FLAG=0, M=455412350, n_trials=0, P=0/45
+FLAG=1, M=455412350, n_trials=1, P=1/45
+FLAG=1, M=455412350, n_trials=2, P=2/45
+FLAG=1, M=455412350, n_trials=3, P=3/45
+FLAG=1, M=455412350, n_trials=4, P=4/45
+FLAG=1, M=455412350, n_trials=5, P=5/45
+FLAG=1, M=455412350, n_trials=6, P=6/45
+FLAG=1, M=455412350, n_trials=7, P=7/45
+FLAG=1, M=455412350, n_trials=8, P=8/45
+FLAG=1, M=455412350, n_trials=9, P=9/45
+FLAG=0, M=478182950, n_trials=0, P=0/45
+FLAG=1, M=478182950, n_trials=1, P=1/45
+FLAG=1, M=478182950, n_trials=2, P=2/45
+FLAG=1, M=478182950, n_trials=3, P=3/45
+FLAG=1, M=478182950, n_trials=4, P=4/45
+FLAG=1, M=478182950, n_trials=5, P=5/45
+FLAG=1, M=478182950, n_trials=6, P=6/45
+FLAG=1, M=478182950, n_trials=7, P=7/45
+FLAG=1, M=478182950, n_trials=8, P=8/45
+FLAG=1, M=478182950, n_trials=9, P=9/45
+FLAG=1, M=478182950, n_trials=10, P=10/45
+FLAG=1, M=478182950, n_trials=11, P=11/45
+FLAG=1, M=478182950, n_trials=12, P=12/45
+FLAG=1, M=478182950, n_trials=13, P=13/45
+FLAG=1, M=478182950, n_trials=14, P=14/45
+FLAG=1, M=478182950, n_trials=15, P=15/45
+FLAG=1, M=478182950, n_trials=16, P=16/45
+FLAG=1, M=478182950, n_trials=17, P=17/45
+FLAG=1, M=478182950, n_trials=18, P=18/45
+FLAG=1, M=478182950, n_trials=19, P=19/45
+FLAG=1, M=478182950, n_trials=20, P=20/45
+FLAG=1, M=478182950, n_trials=21, P=21/45
+FLAG=1, M=478182950, n_trials=22, P=22/45
+FLAG=1, M=478182950, n_trials=23, P=23/45
+FLAG=1, M=478182950, n_trials=24, P=24/45
+FLAG=1, M=478182950, n_trials=25, P=25/45
+FLAG=1, M=478182950, n_trials=26, P=26/45
+FLAG=1, M=478182950, n_trials=27, P=27/45
+FLAG=1, M=478182950, n_trials=28, P=28/45
+FLAG=1, M=478182950, n_trials=29, P=29/45
+FLAG=1, M=478182950, n_trials=30, P=30/45
+FLAG=1, M=478182950, n_trials=31, P=31/45
+FLAG=0, M=502092050, n_trials=0, P=0/45
+FLAG=1, M=502092050, n_trials=1, P=1/45
+FLAG=1, M=502092050, n_trials=2, P=2/45
+FLAG=1, M=502092050, n_trials=3, P=3/45
+FLAG=1, M=502092050, n_trials=4, P=4/45
+FLAG=1, M=502092050, n_trials=5, P=5/45
+FLAG=1, M=502092050, n_trials=6, P=6/45
+FLAG=1, M=502092050, n_trials=7, P=7/45
+FLAG=1, M=502092050, n_trials=8, P=8/45
+FLAG=1, M=502092050, n_trials=9, P=9/45
+FLAG=1, M=502092050, n_trials=10, P=10/45
+FLAG=1, M=502092050, n_trials=11, P=11/45
+FLAG=1, M=502092050, n_trials=12, P=12/45
+FLAG=1, M=502092050, n_trials=13, P=13/45
+FLAG=1, M=502092050, n_trials=14, P=14/45
+FLAG=1, M=502092050, n_trials=15, P=15/45
+FLAG=1, M=502092050, n_trials=16, P=16/45
+FLAG=1, M=502092050, n_trials=17, P=17/45
+FLAG=1, M=502092050, n_trials=18, P=18/45
+FLAG=1, M=502092050, n_trials=19, P=19/45
+FLAG=1, M=502092050, n_trials=20, P=20/45
+FLAG=1, M=502092050, n_trials=21, P=21/45
+FLAG=1, M=502092050, n_trials=22, P=22/45
+FLAG=1, M=502092050, n_trials=23, P=23/45
+FLAG=1, M=502092050, n_trials=24, P=24/45
+FLAG=1, M=502092050, n_trials=25, P=25/45
+FLAG=1, M=502092050, n_trials=26, P=26/45
+FLAG=1, M=502092050, n_trials=27, P=27/45
+FLAG=1, M=502092050, n_trials=28, P=28/45
+FLAG=1, M=502092050, n_trials=29, P=29/45
+FLAG=1, M=502092050, n_trials=30, P=30/45
+FLAG=1, M=502092050, n_trials=31, P=31/45
+FLAG=1, M=502092050, n_trials=32, P=32/45
+FLAG=1, M=502092050, n_trials=33, P=33/45
+FLAG=1, M=502092050, n_trials=34, P=34/45
+FLAG=1, M=502092050, n_trials=35, P=35/45
+FLAG=1, M=502092050, n_trials=36, P=36/45
+FLAG=1, M=502092050, n_trials=37, P=37/45
+FLAG=1, M=502092050, n_trials=38, P=38/45
+FLAG=1, M=502092050, n_trials=39, P=39/45
+FLAG=1, M=502092050, n_trials=40, P=40/45
+FLAG=1, M=502092050, n_trials=41, P=41/45
+FLAG=1, M=502092050, n_trials=42, P=42/45
+FLAG=1, M=502092050, n_trials=43, P=43/45
+FLAG=1, M=502092050, n_trials=44, P=44/45
+FLAG=1, M=502092050, n_trials=45, P=45/45
+beta=1.000000, M_opt=502092050 
+beta=1.100000 
+M_guess=652719665 
+FLAG=0, M=685355600, n_trials=0, P=0/45
+FLAG=0, M=719623350, n_trials=0, P=0/45
+FLAG=0, M=755604500, n_trials=0, P=0/45
+FLAG=0, M=793384700, n_trials=0, P=0/45
+FLAG=0, M=833053900, n_trials=0, P=0/45
+FLAG=0, M=874706550, n_trials=0, P=0/45
+FLAG=0, M=918441850, n_trials=0, P=0/45
+FLAG=0, M=964363900, n_trials=0, P=0/45
+FLAG=0, M=1012582050, n_trials=0, P=0/45
+FLAG=0, M=1063211150, n_trials=0, P=0/45
+FLAG=0, M=1116371700, n_trials=0, P=0/45
+FLAG=0, M=1172190250, n_trials=0, P=0/45
+FLAG=0, M=1230799750, n_trials=0, P=0/45
+FLAG=0, M=1292339700, n_trials=0, P=0/45
+FLAG=0, M=1356956650, n_trials=0, P=0/45
+FLAG=0, M=1424804450, n_trials=0, P=0/45
+FLAG=0, M=1496044650, n_trials=0, P=0/45
+FLAG=0, M=1570846850, n_trials=0, P=0/45
+FLAG=0, M=1649389150, n_trials=0, P=0/45
+FLAG=0, M=1731858600, n_trials=0, P=0/45
+FLAG=0, M=1818451500, n_trials=0, P=0/45
+FLAG=0, M=1909374050, n_trials=0, P=0/45
+FLAG=0, M=2004842750, n_trials=0, P=0/45
+FLAG=0, M=2105084850, n_trials=0, P=0/45
+FLAG=0, M=2210339050, n_trials=0, P=0/45
+FLAG=0, M=2320856000, n_trials=0, P=0/45
+FLAG=0, M=2436898800, n_trials=0, P=0/45
+FLAG=0, M=2558743700, n_trials=0, P=0/45
+FLAG=0, M=2686680850, n_trials=0, P=0/45
+FLAG=0, M=2821014850, n_trials=0, P=0/45
+FLAG=0, M=2962065550, n_trials=0, P=0/45
+FLAG=0, M=3110168800, n_trials=0, P=0/45
+FLAG=0, M=3265677200, n_trials=0, P=0/45
+FLAG=0, M=3428961050, n_trials=0, P=0/45
+FLAG=1, M=3428961050, n_trials=1, P=1/45
+FLAG=0, M=3600409100, n_trials=0, P=0/45
+FLAG=1, M=3600409100, n_trials=1, P=1/45
+FLAG=1, M=3600409100, n_trials=2, P=2/45
+FLAG=1, M=3600409100, n_trials=3, P=3/45
+FLAG=1, M=3600409100, n_trials=4, P=4/45
+FLAG=1, M=3600409100, n_trials=5, P=5/45
+FLAG=1, M=3600409100, n_trials=6, P=6/45
+FLAG=1, M=3600409100, n_trials=7, P=7/45
+FLAG=1, M=3600409100, n_trials=8, P=8/45
+FLAG=1, M=3600409100, n_trials=9, P=9/45
+FLAG=1, M=3600409100, n_trials=10, P=10/45
+FLAG=1, M=3600409100, n_trials=11, P=11/45
+FLAG=1, M=3600409100, n_trials=12, P=12/45
+FLAG=1, M=3600409100, n_trials=13, P=13/45
+FLAG=1, M=3600409100, n_trials=14, P=14/45
+FLAG=1, M=3600409100, n_trials=15, P=15/45
+FLAG=1, M=3600409100, n_trials=16, P=16/45
+FLAG=1, M=3600409100, n_trials=17, P=17/45
+FLAG=1, M=3600409100, n_trials=18, P=18/45
+FLAG=1, M=3600409100, n_trials=19, P=19/45
+FLAG=1, M=3600409100, n_trials=20, P=20/45
+FLAG=0, M=3780429550, n_trials=0, P=0/45
+FLAG=1, M=3780429550, n_trials=1, P=1/45
+FLAG=1, M=3780429550, n_trials=2, P=2/45
+FLAG=1, M=3780429550, n_trials=3, P=3/45
