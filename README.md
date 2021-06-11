@@ -4,7 +4,7 @@
 
 ## Installation
 
-Install with Pkg, just like any other registered Julia package:
+Install with Pkg, just like any other registered Julia package (note the difference in name from repo):
 
 ```jl
 pkg> add GML_Glauber_Dynamics  # Press ']' to enter the Pkg REPL mode.
@@ -26,16 +26,17 @@ err = abs.(convert(Array{Float64,2}, model) - learned_gm)
 ```
 
 ## Reference
-```
-```
-@article{dutt2021exponential,
-  title={Exponential Reduction in Sample Complexity with Learning of Ising Model Dynamics},
-  author={Dutt, Arkopal and Lokhov, Andrey Y and Vuffray, Marc and Misra, Sidhant},
-  journal={arXiv preprint arXiv:2104.00995},
-  year={2021}
-}
-```
-```
+If you use this package, please cite this `paper <https://arxiv.org/abs/2104.00995>` (accepted at ICML 2021):
+::
+
+	@article{dutt2021exponential,
+	  title={Exponential Reduction in Sample Complexity with Learning of Ising Model Dynamics},
+	  author={Dutt, Arkopal and Lokhov, Andrey Y and Vuffray, Marc and Misra, Sidhant},
+	  journal={arXiv preprint arXiv:2104.00995},
+	  year={2021}
+	}
+
+
 ## License
 
 This code is provded under a BSD license.
