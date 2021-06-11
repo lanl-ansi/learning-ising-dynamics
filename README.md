@@ -26,7 +26,7 @@ err = abs.(convert(Array{Float64,2}, model) - learned_gm)
 ```
 
 ## Reference
-If you use this package, please cite this `paper <https://arxiv.org/abs/2104.00995>` (accepted at ICML 2021):
+If you use this package, please cite this [paper](https://arxiv.org/abs/2104.00995) (accepted at ICML 2021):
 ::
 
 	@article{dutt2021exponential,
